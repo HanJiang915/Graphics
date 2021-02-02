@@ -1,0 +1,2 @@
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\Debug\Sample.exe
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\Debug\Sample.pdb

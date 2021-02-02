@@ -1,0 +1,45 @@
+﻿  sample.cpp
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(447,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(455,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(456,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(457,54): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(460,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(461,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(462,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(462,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(465,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(466,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(467,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(467,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(604,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(610,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(611,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(622,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(627,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(629,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(640,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(645,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(646,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(964,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(964,38): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(964,58): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(967,48): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(969,46): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(971,47): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(975,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(975,38): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(975,58): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(976,48): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(978,47): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(980,47): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(982,47): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(987,47): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(989,47): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(991,46): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(993,46): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(1000,72): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(1002,72): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(1010,72): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\sample.cpp(1012,72): warning C4305: '=': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> D:\CS450\p6\Sample2019(1)\SampleFreeGlut2019\.\Debug\Sample.exe
